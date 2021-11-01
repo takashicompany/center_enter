@@ -41,3 +41,6 @@ Center x Enterはキーボードの中央に、ISO Enterキーを配置した30%
 
 ## 組み立て方
 [千葉千夏/あずさん](https://twitter.com/azulee)の[自作キーボードキット「Center x Enter」を組み立てました（ビルドログ・ハードウェア編）](https://note.com/azulee/n/nbe20617f434b)を御覧ください。
+
+## ファームウェア
+[QMKへのPull Request](https://github.com/qmk/qmk_firmware/pull/14790)
