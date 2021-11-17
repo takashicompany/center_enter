@@ -40,7 +40,9 @@ Center x Enterはキーボードの中央に、ISO Enterキーを配置した30%
 |ロータリーエンコーダ|1||
 
 ## 組み立て方
-[千葉千夏/あずさん](https://twitter.com/azulee)の[自作キーボードキット「Center x Enter」を組み立てました（ビルドログ・ハードウェア編）](https://note.com/azulee/n/nbe20617f434b)を御覧ください。
+[千葉千夏/あずさん](https://twitter.com/azulee)の[自作キーボードキット「Center x Enter」を組み立てました（ビルドログ・ハードウェア編）](https://note.com/azulee/n/nbe20617f434b)をご覧ください。
 
 ## ファームウェア
 [QMKへのPull Request](https://github.com/qmk/qmk_firmware/pull/14790)
+
+[千葉千夏/あずさん](https://twitter.com/azulee)の[自作キーボードキット「Center x Enter」を組み立てました（ビルドログ・ソフトウェア編）](https://note.com/azulee/n/n8557fdfbc679)をご覧ください。
