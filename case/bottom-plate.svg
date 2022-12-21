@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_印刷データー" data-name="印刷データー" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 731.339 191.339">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #231815;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: .992px;
+      }
+    </style>
+  </defs>
+  <g id="_ボトムプレート" data-name="ボトムプレート">
+    <g>
+      <g id="_ネジ穴_サイドプレート" data-name="ネジ穴_サイドプレート">
+        <circle class="cls-1" cx="7.583" cy="7.583" r="2.835"/>
+        <circle class="cls-1" cx="7.583" cy="183.756" r="2.835"/>
+        <circle class="cls-1" cx="485.031" cy="7.583" r="2.835"/>
+        <circle class="cls-1" cx="723.756" cy="183.756" r="2.835"/>
+        <circle class="cls-1" cx="723.756" cy="7.583" r="2.835"/>
+        <circle class="cls-1" cx="246.307" cy="7.583" r="2.835"/>
+        <circle class="cls-1" cx="485.031" cy="183.756" r="2.835"/>
+        <circle class="cls-1" cx="246.307" cy="183.756" r="2.835"/>
+        <circle class="cls-1" cx="7.583" cy="7.583" r="2.835"/>
+        <circle class="cls-1" cx="7.583" cy="59.857" r="2.835"/>
+        <circle class="cls-1" cx="7.583" cy="130.15" r="2.835"/>
+      </g>
+      <rect id="PCB外形線_10mm" data-name="PCB外形線+10mm" class="cls-1" x=".496" y=".496" width="730.346" height="190.346" rx="7.087" ry="7.087"/>
+      <rect id="_リセットスイッチ穴" data-name="リセットスイッチ穴" class="cls-1" x="197.996" y="48.334" width="11.339" height="22.677"/>
+    </g>
+  </g>
+</svg>
